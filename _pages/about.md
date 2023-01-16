@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Tego's Career Story"
+title: "Career"
 excerpt: "About me"
 author_profile: true
 redirect_from: 

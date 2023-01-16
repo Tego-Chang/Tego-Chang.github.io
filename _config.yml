@@ -83,12 +83,12 @@ analytics:
 author:
   name             : "Tego Chang"
   avatar           : "profile.jpg"
-  bio              : "Starting as a product manager ..."
+  bio              : "Data scientist for product, SaaS, and IoT / ex-principal product manager for data-driven applications"
   location         : "Durham, North Carolina"
   employer         :
   pubmed           : 
   googlescholar    : 
-  email            :
+  email            : "cc703@duke.edu"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -103,14 +103,14 @@ author:
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         :
+  linkedin         : "https://www.linkedin.com/in/tego-chang/"
   orcid            : # "http://orcid.org/yourorcidurl"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : # "replacethistwitterhandle"
+  twitter          : # "@tegochang"
   vine             :
   weibo            :
   xing             :

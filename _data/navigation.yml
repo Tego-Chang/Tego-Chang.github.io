@@ -12,14 +12,14 @@ main:
   - title: "Portfolio"
     url: /portfolio/
 
-  - title: "Interest"
+  - title: "CV"
+    url: /cv/
+
+  - title: "Basketball Analytics"
     url: /interest/
 
   # - title: "Blog Posts"
   #   url: /year-archive/
     
-  - title: "CV"
-    url: /cv/
-    
-  - title: "Guide"
-    url: /markdown/
+  # - title: "Guide"
+  #   url: /markdown/
