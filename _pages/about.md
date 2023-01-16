@@ -8,4 +8,13 @@ redirect_from:
   - /about.html
 ---
 
-Here to write Tego's career path, and make it a compelling story.
+> *What I have endured will lead me to a field where I would be excellent.*
+
+* Begin as a software/firmware engineer of IoT
+Content 1
+
+* Explore the business as a software product manager
+Content 2
+
+* Aim to make business impact as a data scientist
+Content 3
