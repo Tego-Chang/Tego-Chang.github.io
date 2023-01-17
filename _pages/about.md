@@ -8,9 +8,6 @@ redirect_from:
   - /about.html
 ---
 
-
-Career of an Explorer
-
 > *What I have experienced will lead me to a field where I would be excellent!*
 
 That is what I have believed since my graduation from my first M.S. 10 years ago. During the first decade of my career, my passion for the high-tech industry has led me to diverse positions and fields – from a software engineer, a product manager, to a data scientist and from the field of IoT to Big Data and AI. 
