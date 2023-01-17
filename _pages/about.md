@@ -16,13 +16,13 @@ That is what I have believed since my graduation from my first M.S. 10 years ago
 
 How are those invisible signals transmitted in the air? To pursue the answer to the question, I started my career as a software engineer for Wi-Fi Routers. I studied wireless protocols and validated the behaviors for 10+ *Realtek* models to pass the certifications of Wi-Fi 4 and 5. 
 
-**Product Manager for SaaS and Analytics (2015 ~ 2021)**
+**Product Manager for SaaS and Analytics (2015 ~ 2020)**
 
 How a circuit board with chips becomes a consumer product with fancy shells? The desire to broadly explore the business of IoT drove me to become a software product manager for Wi-Fi routers. I planned various software features for *Synology* RT1900ac and RT2600ac (ranked no.1 by SmallNetBuilder).
 
 How could I make a software planning based on facts and numbers, instead of instinct or feeling? That was my concern until I joined *Netgear* and acted as an engineering product manager of analytics for the company’s products. I designed 5+ projects to collect engineering and marketing data and extracted insights for the executives’ business decision-making. 
 
-**Data Scientist with Diverse Domain Knowledge and Skills (2022 ~ Present)**
+**Data Scientist with Diverse Domain Knowledge and Skills (2021 ~ Present)**
 
 Big Data is more than just extracting insights from BI reports. That motivates me to pursue my second M.S. in Data Science at *Duke* and start to leverage my previous experience to make more business impact in many fields.
 
