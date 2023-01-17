@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Cheng-Pang (Tego) Chang"
+title                    : "Tego Chang"
 title_separator          : "-"
 name                     : &name "Tego Chang"
 description              : &description "Data scientist for software applications, consumer products, and IoT"
@@ -81,7 +81,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "Tego Chang"
+  name             : "Cheng-Pang (Tego) Chang"
   avatar           : "profile.jpg"
   bio              : "Data scientist for product, SaaS, and IoT / ex-principal product manager for data-driven applications"
   location         : "Durham, North Carolina"
