@@ -1,6 +1,6 @@
 ---
-title: "Mobile Auth for Wi-Fi Access - an IoT Risk Identification and Prevention Framework"
-excerpt: "#IoT #Telecom #Supervised/Unsupervised ML #Product Management<br/><img src='/images/Mobile-Auth-Wifi-Access.png'>"
+title: "<img src='/images/Mobile-Auth-Wifi-Access.png' width="800" height="150"><br/>Mobile Auth for Wi-Fi Access - An IoT Risk Identification and Prevention Framework"
+excerpt: "#IoT #Telecom #Supervised ML #Unsupervised ML #Product Management"
 collection: portfolio
 ---
  
