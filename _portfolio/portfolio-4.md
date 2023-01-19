@@ -1,15 +1,15 @@
 ---
-title: "Predicting Donation upon Receiving Mail Offers - A Comparison between EBM and GBM"
-excerpt: "#Explainable ML #Gradient Boosting Machine #xgboost #Credit Advisory #Fintech"
+title: "Mobile Auth for Wi-Fi Access - An IoT Risk Identification and Prevention Framework"
+excerpt: "#IoT #Telecom #Risk Detection and Prevention #Supervised ML #Unsupervised ML #Product Management"
 collection: portfolio
 ---
 
-![RFM](/images/2OS.png)<br/>
-*Investigating the explainability of EBM on interpreting predictions for applying to diverse industries*<br/><br/>
+![Product Idea](/images/Mobile-Auth-Wifi-Access-50pct.png)
+*Product idea: accessing Wi-Fi without password while maintaining security.*<br/><br/>
 
 **Project Summary**
-* Applied Explainable Boosting Machine (EBM) and Gradient Boost Machine (GBM) for predicting donors in the KDD Cup 1998 dataset and compared the ML models’ differences in aspects of performance metrics and interpretability.
-* Generalized the interpretable ML pipelines for applying to credit advisory topics in the fintech industry.
+* Calculated risk scores of IoT devices using machine learning and created a risk profile with their 2FA phone numbers.
+* Synthesized a Wi-Fi access dataset and labeled it with clustering algorithms and outlier detection packages in Python.
 
-[GitHub]() (*This GitHub repo is currently private, reach out if interested.*) <br/>
-[Report](https://tego-chang.github.io/files/2OS_EBM_GBM_2022fall.pdf)
+[GitHub](https://github.com/Tego-Chang/An-IoT-Risk-Prevention-Framework---Mobile-Auth-for-Wi-Fi-Access) (*This GitHub repo is currently private, reach out if interested.*)<br/>
+[Report](https://tego-chang.github.io/files/IoT Risk Identification with Machine Learning_1.pdf)

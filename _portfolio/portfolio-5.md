@@ -4,7 +4,7 @@ excerpt: "#SaaS #Recommender System"
 collection: portfolio
 ---
 
-![RFM](/images/recommederSF.png)<br/>
+![Online Recommender System](/images/recommederSF.png)<br/>
 *The methodology applied for this project.*<br/><br/>
 
 **Project Summary**

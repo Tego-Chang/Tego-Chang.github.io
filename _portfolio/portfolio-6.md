@@ -4,7 +4,7 @@ excerpt: "#NLP #TensorFlow #PyTorch #Supervised ML"
 collection: portfolio
 ---
 
-![RFM](/images/project flow chart_v2.png.png)<br/>
+![Project flow](/images/project_flow_chart_v2.png.png)<br/>
 *Project Framework.*<br/><br/>
 
 **Project Summary**

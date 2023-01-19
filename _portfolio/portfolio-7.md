@@ -1,15 +1,22 @@
 ---
-title: "Customer Segmentation and Churn Prediction for Payment Transaction Service"
-excerpt: "#Fintech #Customer Segmentation #RFM #Unsupervised ML"
+title: "Other Projects throughout Career"
+excerpt: "#Fraud Detection #Tableau #Supervised ML #Unsupervised ML #Classification #Hospitality #Telecom #IoT"
 collection: portfolio
 ---
 
-![RFM](/images/RFM-500.png)<br/>
-*Applying RFM model to segment customers based on recency, frequency, and monetary.*<br/><br/>
+<!-- ![image idea](/images/RFM-500.png)<br/>
+*Image Caption*<br/><br/> -->
 
 **Project Summary**
-* Applied the RFM framework to separate customers into four categories by their engagement and value for the service.
-* Identified criteria of the potential churn with Semi-supervised Learning and predicted according to business context.
+Here I listed the projects throughout my career but not listed in front, topics includes:
+* Data design, implementation, and collection 
+* Data science/Machine Learning coding sample
+* Data visualization and presentation 
 
-[GitHub](https://github.com/Tego-Chang/Customer-Segmentation-Member-Lost-Prediction-and-Retention-Strategies-for-Payment-Transaction)<br/>
-[Report](https://tego-chang.github.io/files/CustomerSegmentation_ChurnPrediction.pdf)
+[GitHub](https://github.com/Tego-Chang/Data-Science-Design-Writing-Visualization-Samples)<br/><br/>
+
+[GitHub - Fraud Detection in IoT and Telecom Industry](https://github.com/Tego-Chang/Data-Science-Design-Writing-Visualization-Samples/tree/main/Fraud_detection_telecom)<br/>
+#Fraud Detection #Supervised ML #Classification #Telecom #IoT<br/>
+
+[GitHub - Predicting Hotel cancelations](https://github.com/Tego-Chang/Data-Science-Design-Writing-Visualization-Samples/tree/main/Fraud_detection_telecom)<br/>
+#Supervised ML #Classification #Hospitality<br/>
