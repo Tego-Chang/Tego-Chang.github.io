@@ -4,7 +4,7 @@ excerpt: "#Fintech #Customer Segmentation #RFM #Unsupervised ML"
 collection: portfolio
 ---
 
-![RFM](/images/RFM.png)
+![RFM](/images/RFM-50pct.png)
 *Applying RFM model to segment customers based on recency, frequency, and monetary.*<br/><br/>
 
 **Project Summary**
