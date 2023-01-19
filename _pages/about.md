@@ -30,6 +30,6 @@ At *TeleSign*, I applied Wi-Fi domain knowledge, Machine Learning skills, and pr
 
 At *2nd Order Solutions*, I investigated the state-of-the-art explainable ML and presented the outcome in a way absorbable for the general audience in the financial credit advisory field. 
 
-**The Journey still Goes on and on and ON!**
+**The Journey still Goes On and On and On and On!**
 
 I am continuing leveraging my abilities to generate more values for the industry. If that also excites you, feel free to reach out! Perhaps we could achieve something different!

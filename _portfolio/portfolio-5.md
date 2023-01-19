@@ -1,15 +1,15 @@
 ---
-title: "Customer Segmentation and Churn Prediction for Payment Transaction Service"
-excerpt: "#Fintech #Customer Segmentation #RFM #Unsupervised ML"
+title: "Online Product Recommender System"
+excerpt: "#SaaS #Recommender System"
 collection: portfolio
 ---
 
-![RFM](/images/RFM-500.png)<br/>
-*Applying RFM model to segment customers based on recency, frequency, and monetary.*<br/><br/>
+![RFM](/images/recommederSF.png)<br/>
+*The methodology applied for this project.*<br/><br/>
 
 **Project Summary**
-* Applied the RFM framework to separate customers into four categories by their engagement and value for the service.
-* Identified criteria of the potential churn with Semi-supervised Learning and predicted according to business context.
+* Built an online recommendation system to suggest customized items based on a 1M-observation like-unlike dataset.
+* Applied Collaborative Filtering to calculate similarity scores among users using Pandas and achieved a 74% accuracy.
 
-[GitHub](https://github.com/Tego-Chang/Customer-Segmentation-Member-Lost-Prediction-and-Retention-Strategies-for-Payment-Transaction)<br/>
-[Report](https://tego-chang.github.io/files/CustomerSegmentation_ChurnPrediction.pdf)
+[GitHub](https://github.com/Tego-Chang/Online-Personalized-Product-Recommendation)<br/>
+[Report](https://tego-chang.github.io/files/Online Personalized Product Recommenation.pdf)
