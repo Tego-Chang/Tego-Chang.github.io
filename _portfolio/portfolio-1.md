@@ -1,7 +1,15 @@
 ---
-title: "Portfolio item number 1"
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
+title: "Impact of Superhost on the Annual Revenue of Listings on Airbnb"
+excerpt: "#Hospitality #Causal Inference #Statistics"
 collection: portfolio
 ---
 
-This is an item in your portfolio. It can be have images or nice text. If you name the file .md, it will be parsed as markdown. If you name the file .html, it will be parsed as HTML. 
+![Product Idea](/images/LA_map.png)
+*Distribution of Airbnb superhosts and regular hosts in LA*<br/><br/>
+
+**Project Summary**
+* Investigated causal effects between a listing’s revenue and its host as well as other features in the hospitality industry.
+* Performed data wrangling, matching, statistical modeling, and visualization using Python on a geospatial dataset.
+
+[GitHub](https://github.com/Tego-Chang/A-Causal-Study-on-Airbnb-Impact-of-Superhosts-on-Revenue-of-Listings)<br/>
+[Report](https://tego-chang.github.io/files/Airbnb Superhosts and Revenue Generation_Final_2.pdf)
