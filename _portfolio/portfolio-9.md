@@ -7,13 +7,10 @@ collection: portfolio
 <!-- ![image idea](/images/RFM-500.png)<br/>
 *Image Caption*<br/><br/> -->
 
-**Project Summary**
 Below listed the GitHub repos of the projects not listed in front:
-<!-- * point 1
-* point 2 -->
 
-[GitHub - Fraud Detection in IoT and Telecom Industry](https://github.com/Tego-Chang/Data-Science-Design-Writing-Visualization-Samples/tree/main/Fraud_detection_telecom)<br/>
-#Fraud Detection #Supervised ML #Classification #Telecom #IoT<br/>
+* [GitHub - Fraud Detection in IoT and Telecom Industry](https://github.com/Tego-Chang/Data-Science-Design-Writing-Visualization-Samples/tree/main/Fraud_detection_telecom)<br/>
+    * #Fraud Detection #Supervised ML #Classification #Telecom #IoT<br/>
 
 [GitHub - Predicting Hotel Cancelations](https://github.com/Tego-Chang/Data-Science-Design-Writing-Visualization-Samples/tree/main/Fraud_detection_telecom)<br/>
 #Supervised ML #Classification #Hospitality<br/>
