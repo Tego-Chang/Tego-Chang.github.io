@@ -11,5 +11,6 @@ collection: portfolio
 * Calculated risk scores of IoT devices using machine learning and created a risk profile with their 2FA phone numbers.
 * Synthesized a Wi-Fi access dataset and labeled it with clustering algorithms and outlier detection packages in Python.
 
-[GitHub](https://github.com/Tego-Chang/An-IoT-Risk-Prevention-Framework---Mobile-Auth-for-Wi-Fi-Access) (*This GitHub repo is currently private, reach out if interested.*)<br/>
-[Report](https://tego-chang.github.io/files/IoT Risk Identification with Machine Learning_1.pdf)
+[GitHub](https://github.com/Tego-Chang/An-IoT-Risk-Prevention-Framework---Mobile-Auth-for-Wi-Fi-Access) <br/>
+[Report](https://github.com/Tego-Chang/An-IoT-Risk-Prevention-Framework---Mobile-Auth-for-Wi-Fi-Access/blob/main/Presentation/IoT%20Risk%20Identification%20with%20Machines%20Learning.pdf)<br/>
+(*The above GitHub repo and Report are currently private, reach out if interested.*)

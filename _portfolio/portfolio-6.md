@@ -1,15 +1,15 @@
 ---
-title: "Identifying Toxic Comments on Wikipedia"
-excerpt: "#NLP #TensorFlow #PyTorch #Supervised ML"
+title: "Online Product Recommender System"
+excerpt: "#SaaS #Recommender System"
 collection: portfolio
 ---
 
-![Project flow](/images/project_flow_chart_v2.png.png)<br/>
-*Project Framework.*<br/><br/>
+![Online Recommender System](/images/recommederSF.png)<br/>
+*The methodology applied for this project.*<br/><br/>
 
 **Project Summary**
-* Classified six kinds of toxic comments through neutral networks using PyTorch and TensorFlow through Keras.
-* Built a Bi-directional LSTM model for multinomial classification and a Naïve Bayes classifier for binomial classification. 
+* Built an online recommendation system to suggest customized items based on a 1M-observation like-unlike dataset.
+* Applied Collaborative Filtering to calculate similarity scores among users using Pandas and achieved a 74% accuracy.
 
-[GitHub](https://github.com/Tego-Chang/Toxic-Comment-Classification-Using-Naive-Bayes-LDA-and-Neural-Networks)<br/>
-[Report](https://tego-chang.github.io/files/nlp_final_project.pdf)
+[GitHub](https://github.com/Tego-Chang/Online-Personalized-Product-Recommendation)<br/>
+[Report](https://tego-chang.github.io/files/Online Personalized Product Recommenation.pdf)
