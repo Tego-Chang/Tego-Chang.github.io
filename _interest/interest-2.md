@@ -1,11 +1,11 @@
 ---
 title: "Member Lost Prediction for Sports Big Name"
-excerpt: "#Sports Analytics #Customer Churn #Logistic Regression #R"
+excerpt: "#Marketing Analytics #Customer Churn #Logistic Regression #R"
 collection: interest
 ---
 
-![Product Idea](/images/UA_member_lost.png)
-*An example of underpaid and overpaid cases in the NBA*<br/><br/>
+![UA](/images/UA_member_lost.png)
+*Analzing different factors' effects to a customer's churn.*<br/><br/>
 
 **Project Summary**
 * Analyzed customers’ purchase behaviors for retention strategies based on the company's marketing dataset.
