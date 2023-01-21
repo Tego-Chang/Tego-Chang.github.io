@@ -1,7 +1,7 @@
 ---
 title: "Predicting A NBA Player's Salary in the Free Agency"
 excerpt: "#Basketball Analytics #Multiple Linear Regression #R"
-collection: interest
+collection: Sports Analytics
 ---
 
 ![Product Idea](/images/SA_player-salary.png)
