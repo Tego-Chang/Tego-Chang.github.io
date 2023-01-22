@@ -10,12 +10,16 @@ redirect_from:
 {% include base_path %}
 
 <!-- [Some title here](FILE_NAME.pdf) -->
-![Resume](/files/CV_TegoChang.pdf)
-<!-- <object data="https://Tego-Chang.github.io/files/CV_TegoChang.pdf" type="CV">
-    <embed src="https://Tego-Chang.github.io/files/CV_TegoChang.pdf">
+<!-- ![Resume](/files/CV_TegoChang.pdf) -->
+
+ <html>
+  <head>
+    <object data="https://Tego-Chang.github.io/files/CV_TegoChang.pdf" type="CV">
+      <embed src="https://Tego-Chang.github.io/files/CV_TegoChang.pdf">
         <p>This browser does not support PDFs. Please download the PDF to view it: <a href="https://Tego-Chang.github.io/files/CV_TegoChang.pdf">Download PDF</a>.</p>
-    </embed>
-</object> -->
+      </embed>
+    </object>
+  </head>
 
 Education
 ======
