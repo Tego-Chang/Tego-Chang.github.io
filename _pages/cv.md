@@ -20,7 +20,6 @@ redirect_from:
   </html> -->
 <html>
   <p>Check below or <a href="https://Tego-Chang.github.io/files/CV_TegoChang.pdf">download PDF</a>.</p>
-  </object>
 </html>
 ![Resume_p1](/files/CV_TegoChang_p1.pdf)
 ![Resume_p2](/files/CV_TegoChang_p2.pdf)
