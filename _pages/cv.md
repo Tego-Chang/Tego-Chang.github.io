@@ -12,7 +12,7 @@ redirect_from:
 <!-- [Some title here](FILE_NAME.pdf) -->
 <!-- ![Resume](/files/CV_TegoChang.pdf) -->
 
- <html>
+<html>
   <head>
     <object data="https://Tego-Chang.github.io/files/CV_TegoChang.pdf" type="CV">
       <embed src="https://Tego-Chang.github.io/files/CV_TegoChang.pdf">
@@ -20,6 +20,7 @@ redirect_from:
       </embed>
     </object>
   </head>
+<!-- </html> -->
 
 Education
 ======
