@@ -30,7 +30,7 @@ Test of CV
     </object>
   </html>
 
-Education
+<!-- Education
 ======
 * M.S. in USA, Duke University, 2021
 * B.S. in GitHub, GitHub University, 2012
@@ -78,4 +78,4 @@ Teaching
   
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* Currently signed in to 43 different slack teams -->
