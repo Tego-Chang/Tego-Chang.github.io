@@ -20,7 +20,7 @@ redirect_from:
       </embed>
     </object>
   </head>
-<!-- </html> -->
+</html>
 
 Education
 ======
