@@ -1,15 +1,16 @@
 ---
-title: "Predicting A NBA Player's Salary in the Free Agency"
-excerpt: "#Basketball Analytics #Multiple Linear Regression #R"
+title: "G-league Indicator to NBA Success and Injury Prediction"
+excerpt: "#Basketball Analytics #Predicting NBA Success and Injury #Recommender System"
 collection: interest
 ---
 
-![Product Idea](/images/SA_player-salary.png)
-*An example of underpaid and overpaid cases in the NBA*<br/><br/>
+![Product Idea](/images/G_league.png)
+*Applying Collaborative Filtering as a method to build a recommender for answering NBA success and predicting injuries.*<br/><br/>
 
-**Project Summary**
-* Predicted players’ salaries based on traditional, advanced statistics on courts, and teams’ salary cap in the past 10 years.
-* Built a team-customized hierarchical linear regression model with R and achieved a 77% testing accuracy.
+**Project Summary** <br/>
+In this project, we aimed to investigate:
+* What G-league statistics are indicative to NBA success?
+* How to design a model to predict if a player will get injured and severity of injury? What data to utilize and what techniques to apply?
 
-[GitHub](https://github.com/Tego-Chang/Sports-Analytics/tree/main/Evaluating_NBA_Players_Value_in_Free_Agency)<br/>
-[Report](https://tego-chang.github.io/files/Evaluating-NBA-Players--Value-in-the-Free-Agency_highlighted.pdf)
+[GitHub](https://github.com/Tego-Chang/Sports-Analytics/tree/main/G-league%20Indicator%20and%20Injury%20Prediction)<br/>
+[Report](https://tego-chang.github.io/files/G-league Indicator and Injury Prediction.pdf)
