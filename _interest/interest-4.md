@@ -1,15 +1,16 @@
 ---
-title: "Predicting A NBA Player's Salary in the Free Agency"
-excerpt: "#Basketball Analytics #Multiple Linear Regression #R"
+title: "Team Standings and Coaching Analytics of NBA"
+excerpt: "#Basketball Analytics #Coaching Analytics #Business Intelligence #R"
 collection: interest
 ---
 
-![Product Idea](/images/SA_player-salary.png)
-*An example of underpaid and overpaid cases in the NBA*<br/><br/>
+![Product Idea](/images/nba_standing_coaching.png)
+*Team standings in winning percentage from season 2005-2006 to 2019-2020.*<br/><br/>
 
-**Project Summary**
-* Predicted players’ salaries based on traditional, advanced statistics on courts, and teams’ salary cap in the past 10 years.
-* Built a team-customized hierarchical linear regression model with R and achieved a 77% testing accuracy.
+**Project Summary** <br/>
+In this project, we aim to analyze two aspects of the NBA:
+* Built a BI dashboard of standings of NBA teams based on the history dataset and analyzed the relationship between a team's winning point margin and its game schedule.
+* Provided insights for coaching given the various situations on the court.
 
-[GitHub](https://github.com/Tego-Chang/Sports-Analytics/tree/main/Evaluating_NBA_Players_Value_in_Free_Agency)<br/>
-[Report](https://tego-chang.github.io/files/Evaluating-NBA-Players--Value-in-the-Free-Agency_highlighted.pdf)
+[GitHub](https://github.com/Tego-Chang/Sports-Analytics/tree/main/NBA_team_standings_coaching_analytics)<br/>
+[Report](https://tego-chang.github.io/files/NBA_team_standings_coaching_analytics.pdf)

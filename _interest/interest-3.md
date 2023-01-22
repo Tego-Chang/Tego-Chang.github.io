@@ -1,6 +1,6 @@
 ---
 title: "G-league Indicator to NBA Success and Injury Prediction"
-excerpt: "#Basketball Analytics #Predicting NBA Success and Injury #Recommender System"
+excerpt: "#Basketball Analytics #Predicting NBA Success and Injury #Recommender System #Python"
 collection: interest
 ---
 
