@@ -12,7 +12,7 @@ redirect_from:
 <!-- [Some title here](FILE_NAME.pdf) -->
 <!-- ![Resume](/files/CV_TegoChang.pdf) -->
 Test of CV
-  <html>
+  <!-- <html>
     <head>
       <object data="https://Tego-Chang.github.io/files/CV_TegoChang.pdf" type="CV">
         <embed src="https://Tego-Chang.github.io/files/CV_TegoChang.pdf">
@@ -21,6 +21,13 @@ Test of CV
         </embed>
       </object>
     </head>
+  </html> -->
+  <html>
+    <object data="https://Tego-Chang.github.io/files/CV_TegoChang.pdf" type="pdf">
+        <embed src="https://Tego-Chang.github.io/files/CV_TegoChang.pdf" type="pdf">
+            <p>This browser does not support PDFs. Please download the PDF to view it: <a href="https://Tego-Chang.github.io/files/CV_TegoChang.pdf">Download PDF</a>.</p>
+        </embed>
+    </object>
   </html>
 
 Education
