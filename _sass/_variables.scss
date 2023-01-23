@@ -22,7 +22,7 @@ $monospace                  : Monaco, Consolas, "Lucida Console", monospace;
 
 /* sans serif typefaces */
 // $sans-serif-narrow          : $sans-serif !default;
-$sans-serif-narrow          : $verdana !default;
+$sans-serif-narrow          : $courier_new !default;
 $helvetica                  : Helvetica, "Helvetica Neue", Arial, sans-serif !default;
 // $helvetica                  : Verdana, Helvetica, "Helvetica Neue", Arial, sans-serif !default;
 
@@ -40,9 +40,9 @@ $garamond                   : Garamond, serif !default;
 // $global-font-family         : $sans-serif !default;
 // $header-font-family         : $sans-serif !default;
 // $caption-font-family        : $serif !default;
-$global-font-family         : $verdana !default;
-$header-font-family         : $verdana !default;
-$caption-font-family        : $verdana !default;
+$global-font-family         : $courier_new !default;
+$header-font-family         : $courier_new !default;
+$caption-font-family        : $courier_new !default;
 
 /* type scale */
 $type-size-1                : 2.441em;  // ~39.056px
