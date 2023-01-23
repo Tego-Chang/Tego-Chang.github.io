@@ -26,6 +26,8 @@ $helvetica                  : Verdana, Helvetica, "Helvetica Neue", Arial, sans-
 
 /* serif typefaces */
 $georgia                    : Georgia, serif !default;
+$times_new_roman            : "Times New Roman", serif !default;
+
 $times                      : Times, serif !default;
 $bodoni                     : "Bodoni MT", serif !default;
 $calisto                    : "Calisto MT", serif !default;
@@ -34,9 +36,9 @@ $garamond                   : Garamond, serif !default;
 // $global-font-family         : $sans-serif !default;
 // $header-font-family         : $sans-serif !default;
 // $caption-font-family        : $serif !default;
-$global-font-family         : $georgia !default;
-$header-font-family         : $georgia !default;
-$caption-font-family        : $georgia !default;
+$global-font-family         : $times_new_roman !default;
+$header-font-family         : $times_new_roman !default;
+$caption-font-family        : $times_new_roman !default;
 
 /* type scale */
 $type-size-1                : 2.441em;  // ~39.056px
