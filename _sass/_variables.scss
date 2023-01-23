@@ -30,6 +30,7 @@ $georgia                    : Georgia, serif !default;
 $times_new_roman            : "Times New Roman", serif !default;
 $verdana                    : Verdana, sans-serif !default;
 $courier_new                : "Courier New", monospace !default;
+$cambria                    : Cambria, serif !default;
 
 $times                      : Times, serif !default;
 $bodoni                     : "Bodoni MT", serif !default;
@@ -39,10 +40,10 @@ $garamond                   : Garamond, serif !default;
 // $global-font-family         : $sans-serif !default;
 // $header-font-family         : $sans-serif !default;
 // $caption-font-family        : $serif !default;
-$global-font-family         : $courier_new !default;
-$header-font-family         : $courier_new !default;
-$caption-font-family        : $courier_new !default;
-$sans-serif-narrow          : $courier_new !default;
+$global-font-family         : $cambria !default;
+$header-font-family         : $cambria !default;
+$caption-font-family        : $cambria !default;
+$sans-serif-narrow          : $cambria !default;
 
 
 /* type scale */
