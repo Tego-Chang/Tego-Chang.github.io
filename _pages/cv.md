@@ -19,10 +19,11 @@ redirect_from:
     </object>
   </html> -->
 <html>
-  <p>Check below or <a href="https://Tego-Chang.github.io/files/CV_TegoChang.pdf">download PDF</a>.</p>
+  <p>Check below or Download CV: <a href="https://Tego-Chang.github.io/files/CV_TegoChang_DS.pdf">Tego as a Data Scientist for the Industry</a>.</p>
+  <p>Check below or Download CV: <a href="https://Tego-Chang.github.io/files/CV_TegoChang_BA.pdf">Tego as a Enthusiast for Basketball Analytics</a>.</p>
 </html>
-![Resume_p1](/files/CV_TegoChang_p1.pdf)
-![Resume_p2](/files/CV_TegoChang_p2.pdf)
+![Resume_p1](/files/CV_TegoChang_DS_p1.pdf)
+![Resume_p2](/files/CV_TegoChang_DS_p2.pdf)
 
 
 
