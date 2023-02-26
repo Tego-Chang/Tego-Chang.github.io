@@ -1,15 +1,15 @@
 ---
-title: "2021 Duke Datathon – Evaluating Democracy Satisfaction of People in Different Countries"
-excerpt: "#Social Analysis #Multiclass Classification #Supervised ML #Statistical Modeling"
+title: "Online Product Recommender System"
+excerpt: "#SaaS #Recommender System"
 collection: portfolio
 ---
 
-![Product Idea](/images/dukeDatathon.png)
-*The Map of Average Predicted Democracy Satisfaction*<br/><br/>
+![Online Recommender System](/images/recommederSF.png)<br/>
+*The methodology applied for this project.*<br/><br/>
 
 **Project Summary**
-* Explored the relationships between democracy satisfaction and factors from demography, economics, and social justice.
-* Performed data cleaning, wrangling, and visualization using Python on a 22M-observation survey dataset.
+* Built an online recommendation system to suggest customized items based on a 1M-observation like-unlike dataset.
+* Applied Collaborative Filtering to calculate similarity scores among users using Pandas and achieved a 74% accuracy.
 
-[GitHub](https://github.com/Tego-Chang/2021-Duke-Datathon-Evaluating-Democracy-Satisfaction-in-Different-Countries) <br/>
-[Report](https://tego-chang.github.io/files/datathon report.pdf)<br/>
+[GitHub](https://github.com/Tego-Chang/Online-Personalized-Product-Recommendation)<br/>
+[Report](https://tego-chang.github.io/files/Online Personalized Product Recommenation.pdf)

@@ -20,13 +20,13 @@ How are those invisible signals transmitted in the air? To pursue the answer to 
 ## Product Manager for IoT, Analytics, and AI SaaS (2015 ~ 2020)
 
 ### Synology
-How a circuit board with chips becomes a consumer product with fancy shells? The desire to broadly explore the business of IoT drove me to become a software product manager for Wi-Fi routers. I planned various software features for RT1900ac and RT2600ac, with the latter [ranked no.1 router](https://www.smallnetbuilder.com/wireless/wireless-reviews/synology-rt2600ac-router-reviewed/) by SmallNetBuilder.
+How a circuit board with chips becomes a consumer product with fancy shells? The desire to broadly explore the business of **IoT** drove me to become a software product manager for Wi-Fi routers. I planned various software features for RT1900ac and RT2600ac, with the latter [ranked no.1 router](https://www.smallnetbuilder.com/wireless/wireless-reviews/synology-rt2600ac-router-reviewed/) by SmallNetBuilder.
 
 ### Netgear
-How could I plan a software roadmap based on numbers, instead of just feeling? That was my concern until I joined the company and acted as an engineering product manager in analytics. I designed 5+ projects to collect engineering and marketing data and extracted insights for the executives’ business decision-making. 
+How could I plan a software roadmap based on numbers, instead of just feeling? That was my concern until I joined the company and acted as an engineering product manager in **analytics**. I designed 5+ projects to collect engineering and marketing data and extracted insights for the executives’ business decision-making. 
 
 ### Foxit Software
-Big Data is not just extracting insights from BI reports, but it can be further integrated into products to help people directly. To realize that, I led a team to build a contract review automation service from scratch, [iDox.ai](https://idox.ai).
+Big Data is not just extracting insights from BI reports, but it can be further integrated into products as an **AI SaaS** to help people directly. To realize that, I led a team to build a contract review automation service from scratch, [iDox.ai](https://idox.ai).
 
 ## Data Scientist at Duke University (2021 ~ Present)
 

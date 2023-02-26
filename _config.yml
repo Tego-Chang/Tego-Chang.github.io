@@ -83,12 +83,12 @@ analytics:
 author:
   name             : "Cheng-Pang (Tego) Chang"
   avatar           : "profile.jpg"
-  bio              : "Data scientist for consumer products, SaaS, and IoT /<br/>Ex-principal product manager for data-driven applications /<br/>Basketball analytics enthusiast"
+  bio              : "Data Scientist for consumer products, SaaS, and IoT |<br/><br/>Ex-Principal Product Manager for data-driven applications |<br/><br/>Basketball Analytics enthusiast"
   location         : "Durham, North Carolina"
   employer         :
   pubmed           : 
   googlescholar    : 
-  email            : "cc703@duke.edu"
+  email            : "tegochang@gmail.com"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -188,6 +188,9 @@ collections:
   interest:
     output: true
     permalink: /:collection/:path/
+  portfolio2:
+    output: true
+    permalink: /:collection/:path/
   talks:
     output: true
     permalink: /:collection/:path/
@@ -244,6 +247,15 @@ defaults:
   - scope:
       path: ""
       type: interest
+    values:
+      layout: single
+      author_profile: true
+      share: true
+      comment: true
+  # _portfolio2
+  - scope:
+      path: ""
+      type: portfolio2
     values:
       layout: single
       author_profile: true

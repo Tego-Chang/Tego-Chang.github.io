@@ -9,11 +9,14 @@ main:
   # - title: "Teaching"
   #   url: /teaching/    
     
-  - title: "Portfolio"
-    url: /portfolio/
+  - title: "Product Analytics"
+    url: /ProductAnalytics/
 
   - title: "Sports Analytics"
     url: /interest/
+  
+  - title: "AI & IoT"
+    url: /AIandIoT/
 
   - title: "CV"
     url: /cv/

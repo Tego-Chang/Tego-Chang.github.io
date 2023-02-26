@@ -8,9 +8,8 @@ collection: interest
 *Applying Collaborative Filtering as a method to build a recommender for answering NBA success and predicting injuries.*<br/><br/>
 
 **Project Summary** <br/>
-In this project, we aimed to investigate:
-* What G-league statistics are indicative to NBA success?
-* How to design a model to predict if a player will get injured and severity of injury? What data to utilize and what techniques to apply?
+* Identified indicators of NBA success through hypothesis testing using data from the G-League official website.
+* Built a recommender system to predict injuries using collaborative filtering with Python.
 
 [GitHub](https://github.com/Tego-Chang/Sports-Analytics/tree/main/G-league%20Indicator%20and%20Injury%20Prediction)<br/>
 [Report](https://tego-chang.github.io/files/G-league Indicator and Injury Prediction.pdf)
