@@ -13,7 +13,7 @@ main:
     url: /ProductAnalytics/
 
   - title: "Sports Analytics"
-    url: /interest/
+    url: /SportsAnalytics/
   
   - title: "AI & IoT"
     url: /AIandIoT/

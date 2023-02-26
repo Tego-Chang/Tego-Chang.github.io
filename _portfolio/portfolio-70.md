@@ -1,6 +1,6 @@
 ---
 title: "2021 Duke Datathon – Evaluating Democracy Satisfaction of People in Different Countries"
-excerpt: "#Social Analysis #Multiclass Classification #Supervised ML #Statistical Modeling"
+excerpt: "#Duke Data Competition #Social Analysis #Multiclass Classification #Supervised ML #Statistical Modeling"
 collection: portfolio
 ---
 
