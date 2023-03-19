@@ -83,7 +83,8 @@ analytics:
 author:
   name             : "Cheng-Pang (Tego) Chang"
   avatar           : "profile.jpg"
-  bio              : "<li>Data Scientist for Consumer Products, SaaS, and IoT</li><li>Ex-Principal Product Manager for Data-driven Applications</li><li>Basketball Analytics Enthusiast</li>"
+  # bio              : "<li>Data Scientist for Consumer Products, SaaS, and IoT</li><li>Ex-Principal Product Manager for Data-driven Applications</li><li>Basketball Analytics Enthusiast</li>"
+  bio              : "Data Scientist for Consumer Products, <br> SaaS, and IoT | Ex-Principal Product Manager <br> for Data-driven Applications | Basketball Analytics Enthusiast"
   location         : "Durham, North Carolina"
   employer         :
   pubmed           : 
