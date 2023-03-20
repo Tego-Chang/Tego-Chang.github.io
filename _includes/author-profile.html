@@ -25,12 +25,14 @@
     <div class="author__content">
       <h3 class="author__name">{{ author.name }}</h3>
       {% if author.bio %}<p class="author__bio">{{ author.bio }}</p>{% endif %}
+      {% if author.bio2 %}<p class="author__bio2">{{ author.bio2 }}</p>{% endif %}
+      {% if author.bio3 %}<p class="author__bio3">{{ author.bio3 }}</p>{% endif %}
     </div>
   </div>
   
   <style>
   .author__container {
-    width: 150%; /* set the desired width */
+    width: 130%; /* set the desired width */
     margin: 0 auto; /* center the container horizontally */
   }
   </style>
