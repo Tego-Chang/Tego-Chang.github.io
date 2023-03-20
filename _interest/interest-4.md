@@ -1,6 +1,6 @@
 ---
-title: "Team Standings and Coaching Analytics of NBA"
-excerpt: "#Basketball Analytics #Coaching Analytics #Business Intelligence #R"
+title: "Optimizing NBA Team Performance: Analyzing Conference Strength and Offensive Rebounding Strategy"
+excerpt: "#Basketball Operation Analytics #Basketball Coaching Analytics #Business Intelligence #Machine Learning #R"
 collection: interest
 ---
 
@@ -8,9 +8,9 @@ collection: interest
 *Team standings in winning percentage from season 2005-2006 to 2019-2020.*<br/><br/>
 
 **Project Summary** <br/>
-In this project, we aim to analyze two aspects of the NBA:
-* Built a BI dashboard of standings of NBA teams based on the history dataset and analyzed the relationship between a team's winning point margin and its game schedule.
-* Provided insights for coaching given the various situations on the court.
+* Developed a historical BI dashboard analyzing conference strength's effect on regular season records against playoff/non-playoff teams and point margin in NBA games (2005-2020).
+* Assessed machine learning models to optimize offensive rebounding strategy, while balancing the trade-off between second-chance points and transition defense.
+
 
 [GitHub](https://github.com/Tego-Chang/Sports-Analytics/tree/main/NBA_team_standings_coaching_analytics)<br/>
 [Report](https://tego-chang.github.io/files/NBA_team_standings_coaching_analytics.pdf)

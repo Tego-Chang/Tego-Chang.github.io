@@ -1,15 +1,16 @@
 ---
-title: "G-league Indicator to NBA Success and Injury Prediction"
-excerpt: "#Basketball Analytics #Predicting NBA Success and Injury #Recommender System #Python"
+title: "G-league Indicator to NBA Success and Player Injury Prediction"
+excerpt: "#Basketball Operation Analytics #Statistical Analysis # Interdisciplinary collaboration #Python"
 collection: interest
 ---
 
 ![Product Idea](/images/G_league.png)
-*Applying Collaborative Filtering as a method to build a recommender for answering NBA success and predicting injuries.*<br/><br/>
+*An alternative solution for predicting player injuries: applying Collaborative Filtering to build a player injury recommender.*<br/><br/>
 
 **Project Summary** <br/>
-* Identified indicators of NBA success through hypothesis testing using data from the G-League official website.
-* Built a recommender system to predict injuries using collaborative filtering with Python.
+* Conducted Two-Sample T-Test analysis to determine the most significant statistical indicators for NBA success among G- League players with two-way contracts.
+* Proposed interdisciplinary collaboration with coaches, players, and medical experts to develop a machine learning model that predicts the likelihood of basketball player injuries and their severity.
+
 
 [GitHub](https://github.com/Tego-Chang/Sports-Analytics/tree/main/G-league%20Indicator%20and%20Injury%20Prediction)<br/>
 [Report](https://tego-chang.github.io/files/G-league Indicator and Injury Prediction.pdf)

@@ -1,5 +1,5 @@
 ---
-title: "Writing Samples in Data Science, Machine Learning, and Statistical Modeling"
+title: "Writing Samples in AIoT"
 excerpt: "#Fraud Detection #Telecom #IoT #Supervised ML #Unsupervised ML #Classification #Statistical Modeling"
 collection: portfolio
 ---
